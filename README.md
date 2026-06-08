@@ -17,6 +17,9 @@ The primary goal of this project is to analyze student performance data and unco
 * Matplotlib
   
 * Seaborn
+
+<img width="1508" height="886" alt="image" src="https://github.com/user-attachments/assets/dbd150c7-bf9e-478b-bcf1-767e20ca7eb1" />
+
   
 # Data Cleaning
 
