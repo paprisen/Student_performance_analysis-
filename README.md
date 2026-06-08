@@ -20,7 +20,8 @@ The primary goal of this project is to analyze student performance data and unco
 
 <img width="1508" height="886" alt="image" src="https://github.com/user-attachments/assets/dbd150c7-bf9e-478b-bcf1-767e20ca7eb1" />
 
-  
+<img width="1472" height="704" alt="image" src="https://github.com/user-attachments/assets/7bf38e8e-0892-456d-8675-b3de84a965ed" />
+
 # Data Cleaning
 
 * Checked missing values
